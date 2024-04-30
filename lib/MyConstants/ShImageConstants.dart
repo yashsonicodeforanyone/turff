@@ -1,0 +1,11 @@
+const ic_alert="assets/warning.png";
+const ic_success="assets/check.png";
+const ic_hotel_icon="assets/hotelicon.png";
+const ic_room="assets/roomico.png";
+const ic_password="assets/password.png";
+const ic_roomimg="assets/roomimg.jpg";
+const ic_app_icon="assets/appicon.png";
+const ic_app_splash="assets/splashimage.png";
+const ic_players="assets/player.png";
+const ic_grass="assets/grass.png";
+const ic_turf="assets/turf.png";
